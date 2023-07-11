@@ -12,6 +12,7 @@ dunst
 rofi                                                                                                                                       
 flameshot(if you want screenshot)                                                                                                          
 nitrogen                                                                                                                                   
+
 if dolphin looks like bad,you can install kvantum,qt5ct.
                                                                                                                                                                                                                                                              
 
