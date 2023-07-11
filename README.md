@@ -13,5 +13,5 @@ flameshot(if you want screenshot)
 nitrogen
 if dolphin looks like ad,you can install kvantum and qt5ct.
 installation:
-```git clone -depth 1 https://github.com/eterna8/dotfiles/```
-```cd dotfiles```
+```git clone -depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh setup.sh```
+
