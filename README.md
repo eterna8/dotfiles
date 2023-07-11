@@ -11,7 +11,8 @@ dunst
 rofi                                                                                                                                       
 flameshot(if you want screenshot)                                                                                                          
 nitrogen                                                                                                                                   
-if dolphin looks like bad,you can install kvantum,qt5ct and make theming.
+if dolphin looks like bad,you can install kvantum,qt5ct.
+                    
                                                                                                                                   installation:                                                                                                                                                                                                                                                        
 ```git clone -depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh setup.sh```
 
