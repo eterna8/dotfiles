@@ -11,7 +11,9 @@ alacritty
 dunst                                                                                                                                      
 rofi                                                                                                                                       
 flameshot(if you want screenshot)                                                                                                          
-nitrogen                                                                                                                                   
+nitrogen
+
+install for arch:```sudo pacman -S polybar i3 dolphin alacritty dunst rofi flameshot && yay -S ttf-font-awesome picom-git```
 
 if dolphin looks like bad,you can install kvantum,qt5ct.
                                                                                                                                                                                                                                                              
