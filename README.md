@@ -1,6 +1,7 @@
 # dotfiles
 dotfiles for my arch i3 ricing.
 needed packages:
+
 picom-git                                                                                                                                  
 awesome fonts 6                                                                                                                            
 polybar                                                                                                                                    
