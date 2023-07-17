@@ -21,5 +21,7 @@ if dolphin looks like bad,you can install kvantum,qt5ct.
 
 install dotfiles for another distros(before you need to install needed packages):```git clone -depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh setup.sh```
 
-look:![image](https://github.com/eterna8/dotfiles/assets/139211439/c62d0d4a-6cd9-4459-bb8e-1a7791a3235c)
+look:![image](https://github.com/eterna8/dotfiles/assets/139211439/4262dfd2-3de2-463a-8d25-ae618add9bc5)
+![image](https://github.com/eterna8/dotfiles/assets/139211439/60c14953-1f4d-47a4-98e2-a1684d85b10d)
+
 
