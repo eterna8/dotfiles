@@ -1,4 +1,4 @@
-<img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10"
+img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10"
  align="right" />Dotfiles
 --
 
@@ -14,5 +14,5 @@ look(eterna):
 d9bc5" width="300"><align="right"><img src="https://github.com/eterna8/dotfiles/assets/139211439/60c14953-1f4d
 -47a4-98e2-a1684d85b10d" width="300">
 
-
+<p align="center">readme file by m3tozz
 
