@@ -23,3 +23,4 @@ install dotfiles for another distros(before you need to install needed packages)
 
 look:![image](https://github.com/eterna8/dotfiles/assets/139211439/c62d0d4a-6cd9-4459-bb8e-1a7791a3235c)
 
+[![Hits](https://hits.sh/github.com/eterna8/dotfiles.git.svg)](https://hits.sh/github.com/eterna8/dotfiles.git/)
