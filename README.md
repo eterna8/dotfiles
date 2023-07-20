@@ -10,7 +10,7 @@ Install dotfiles for arch(now,its only for arch): <br>
 git clone -depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install.sh
 ```
 
-Neofetch theme(NeoCat/smile): https://github.com/m3tozz/NeoCat.git
+Neofetch theme(Small-themes-Smile): https://github.com/m3tozz/NeoCat.git
 
 <br>
 look(eterna):
