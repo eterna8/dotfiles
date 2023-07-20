@@ -1,7 +1,4 @@
 <img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10"
- align="right" />  dotfiles
---
-<img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10"
  align="right" />Dotfiles
 --
 
@@ -15,12 +12,12 @@ git clone -depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arc
 look(eterna):
 <table>
         <tr>
-        <td><img src="https://github.com/eterna8/dotfiles/assets/139211439/4262dfd2-3de2-463a-8d25-ae618add9bc
-5" width="300"></a></td>
-        <td><img src="https://github.com/eterna8/dotfiles/assets/139211439/60c14953-1f4d-47a4-98e2-a1684d85b10
-d" width="300"></a></td>
+        <td><p align="left"><img src="https://github.com/eterna8/dotfiles/assets/139211439/4262dfd2-3de2-463a-
+8d25-ae618add9bc5" width="300"></a></td>
+        <td><p align="right"><img src="https://github.com/eterna8/dotfiles/assets/139211439/60c14953-1f4d-47a4
+-98e2-a1684d85b10d" width="300"></a></td>
         </tr>
 </table>
 
-#readme file by m3tozz
+<p align="center">readme file by m3tozz
 
