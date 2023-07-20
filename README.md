@@ -9,8 +9,7 @@ Install dotfiles for arch(now,its only for arch): <br>
 git clone -depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install.sh
 ```
 <br>
-look(eterna):
-<p align="left"><img src="https://cdn.discordapp.com/attachments/1131279204567224430/1131653900445958235/image
+look(eterna):<p align="left"><img src="https://cdn.discordapp.com/attachments/1131279204567224430/1131653900445958235/image
 .png" <align="right"><img src="https://cdn.discordapp.com/attachments/1131279204567224430/11316539
 00714381372/image.png" 
 
