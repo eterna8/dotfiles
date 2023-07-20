@@ -3,12 +3,15 @@
 --
 
 Dotfiles for my arch i3 ricing.<br>
-Neofetch theme(NeoCat/smile): https://github.com/m3tozz/NeoCat.git
+
 
 Install dotfiles for arch(now,its only for arch): <br>
 ```bash
 git clone -depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install.sh
 ```
+
+Neofetch theme(NeoCat/smile): https://github.com/m3tozz/NeoCat.git
+
 <br>
 look(eterna):
 
