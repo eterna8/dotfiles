@@ -1,7 +1,9 @@
 <img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10"
  align="right" />  dotfiles
 --
-
+<img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10"
+ align="right" />Dotfiles
+--
 
 Dotfiles for my arch i3 ricing.<br>
 
@@ -21,5 +23,4 @@ d" width="300"></a></td>
 </table>
 
 #readme file by m3tozz
-
 
