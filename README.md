@@ -1,12 +1,19 @@
-# dotfiles
-dotfiles for my arch i3 ricing.
+<img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10">
+--
 
+Dotfiles for my arch i3 ricing.
 
-install dotfiles for arch(now,its only for arch):```git clone -depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install.sh```
-                                                                                                                                                        
+Install dotfiles for arch(now,its only for arch): <br>
+```bash
+git clone -depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install.sh
+```
 
-look(eterna):![image](https://github.com/eterna8/dotfiles/assets/139211439/8583ba95-0041-4fe6-82cd-c73b21d51c8c) ![image](https://github.com/eterna8/dotfiles/assets/139211439/7b94010f-599a-4342-ad4d-5f33a68f3ec8)
+look(eterna):
+<table>
+        <tr>
+        <td><img src="https://github.com/eterna8/dotfiles/assets/139211439/4262dfd2-3de2-463a-8d25-ae618add9b>
+        <td><img src="https://github.com/eterna8/dotfiles/assets/139211439/60c14953-1f4d-47a4-98e2-a1684d85b1>
+        </tr>
+</table>
 
-
-
-[![Hits](https://hits.sh/github.com/eterna8/dotfiles.svg?view=today-total&style=flat-square&color=fe7d37)](https://hits.sh/github.com/eterna8/dotfiles/)
+# readme file by m3tozz
