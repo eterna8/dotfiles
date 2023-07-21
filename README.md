@@ -5,19 +5,24 @@
 Dotfiles for my arch i3 ricing.<br>
 
 
-Install dotfiles for arch(now,its only for arch): <br>
+Install transperent dotfiles for arch(now,its only for arch): <br>
 ```bash
-git clone -depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install.sh
+git clone --depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install.sh
 ```
+```bash
+git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install-default.sh
 
 Neofetch theme(Small-Themes/Smile): https://github.com/m3tozz/NeoCat.git
 
 
 <br>
-look(eterna):
+look(transperent):
 
-![image](https://github.com/eterna8/dotfiles/assets/139211439/f03ddfcd-4496-4fc0-b8d0-f6c7ab6673eb)
-![image](https://github.com/eterna8/dotfiles/assets/139211439/e3abc2a3-2663-48df-94d1-b09f6f75c9c3)
+![image](https://github.com/eterna8/dotfiles/assets/139211439/c76d9119-8df7-412a-a92c-e6f58b7fcfc0)
+![image](https://github.com/eterna8/dotfiles/assets/139211439/04a8c6da-cb81-4f65-938c-cfbe033f717f)
 
+Look(default)
+![image](https://github.com/eterna8/dotfiles/assets/139211439/bb55d01a-c193-4e1f-b81c-dc008abce650)
+![image](https://github.com/eterna8/dotfiles/assets/139211439/b5d02c5d-76a0-46ee-9eda-185b69f1d418)
 
 
