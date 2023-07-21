@@ -9,6 +9,7 @@ Install transperent dotfiles for arch(now,its only for arch): <br>
 ```bash
 git clone --depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install.sh
 ```
+Install default theme for arch(now,its only for arch):
 ```bash
 git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install-default.sh
 ```
