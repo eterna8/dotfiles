@@ -1,0 +1,71 @@
+window:
+  padding:
+    x: 10
+    y: 10
+  class:
+    instance: Alacritty
+    general: Alacritty
+  opacity: 0.9
+
+scrolling:
+  history: 10000
+  multiplier: 3
+
+font:
+  normal:
+    family: CascadiaCode
+    style: Regular
+  bold:
+    family: CascadiaCode
+    style: Bold
+  italic:
+    family: CascadiaCode
+    style: Italic
+  bold_italic:
+    family: CascadiaCode
+    style: Bold Italic
+  size: 11.5
+draw_bold_text_with_bright_colors: true
+
+#import:
+#  - ~/.config/alacritty/dark-decay.yml
+selection:
+  save_to_clipboard: false
+
+shell:
+  program: /usr/bin/zsh
+
+key_bindings:
+  - {
+      key: Return,
+      mods: Super|Shift,
+      action: SpawnNewInstance
+    }
+
+colors:
+  # Default colors
+  primary:
+    background: '#0d0f18'
+    foreground: '#ffffff'
+
+  # Normal colors
+  normal:
+    black: '#0d0f18'
+    red: '#d54e53'
+    green: '#b9ca4a'
+    yellow: '#e6c547'
+    blue: '#7aa6da'
+    magenta: '#c397d8'
+    cyan: '#70c0ba'
+    white: '#424242'
+
+  # Bright colors
+  bright:
+    black: '#0d0f18'
+    red: '#ff3334'
+    green: '#9ec400'
+    yellow: '#e7c547'
+    blue: '#7aa6da'
+    magenta: '#b77ee0'
+    cyan: '#54ced6'
+    white: '#2a2a2a'
