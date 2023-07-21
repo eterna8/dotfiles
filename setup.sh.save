@@ -9,5 +9,5 @@ echo enabling kvantum...
 QT_QPA_PLATFORMTHEME=kvantum
 echo please restart your computer for changing theme.
 echo installing neocat...
-cd Smile-NeoCat-Theme && bash ./smile-neocat.sh 
+cd Smile-NeoCat.sh &&
 echo done!
