@@ -11,22 +11,13 @@ git clone -depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arc
 ```
 
 Neofetch theme(Small-Themes/Smile): https://github.com/m3tozz/NeoCat.git
-<<<<<<< HEAD
-=======
+
 
 <br>
 look(eterna):
 
 ![image](https://github.com/eterna8/dotfiles/assets/139211439/f03ddfcd-4496-4fc0-b8d0-f6c7ab6673eb)
 ![image](https://github.com/eterna8/dotfiles/assets/139211439/e3abc2a3-2663-48df-94d1-b09f6f75c9c3)
->>>>>>> 0f2f0f846c0ce074cf231bd70be1a03a7383e06a
 
-<br>
-look(eterna):
 
-<<<<<<< HEAD
-![image](https://github.com/eterna8/dotfiles/assets/139211439/f03ddfcd-4496-4fc0-b8d0-f6c7ab6673eb)
-![image](https://github.com/eterna8/dotfiles/assets/139211439/e3abc2a3-2663-48df-94d1-b09f6f75c9c3)
 
-=======
->>>>>>> 0f2f0f846c0ce074cf231bd70be1a03a7383e06a
