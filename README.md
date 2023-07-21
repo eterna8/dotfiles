@@ -11,7 +11,7 @@ git clone --depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh ar
 ```
 ```bash
 git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install-default.sh
-
+```
 Neofetch theme(Small-Themes/Smile): https://github.com/m3tozz/NeoCat.git
 
 
