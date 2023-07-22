@@ -192,5 +192,6 @@ bindsym Mod1+Shift+r restart
 default_border pixel 1
 default_floating_border pixel 1
 gaps inner 5
+bindsym $mod+o exec kcolorchooser
 
 
