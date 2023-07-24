@@ -26,7 +26,8 @@ Neofetch Theme (Small-Themes/Smile): https://github.com/m3tozz/NeoCat.git
 </details>
 
 <details>
-<summary> Look (Default) </summary>
+<summary> Look (Default) </summary> 
+ 
 ![image](https://github.com/eterna8/dotfiles/assets/139211439/bb55d01a-c193-4e1f-b81c-dc008abce650)
 ![image](https://github.com/eterna8/dotfiles/assets/139211439/b5d02c5d-76a0-46ee-9eda-185b69f1d418)
 </details>
