@@ -1,7 +1,10 @@
 <img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10"
  align="right" /> Dotfiles
 --
-
+2023:07:23 
+--
+Added spotify module
+-- 
 Dotfiles for my arch i3 ricing.<br>
 
 
