@@ -10,11 +10,14 @@
 --------------------------------------------------------------------------
 
 <p align="center">Install transperent dotfiles for arch(now,its only for arch):</p>
-```bash
+
+```
 git clone --depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install.sh
 ```
+
 <p align="center">Install default theme for arch(now,its only for arch):</p>
-```bash
+
+```
 git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install-default.sh
 ```
 
