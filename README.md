@@ -3,11 +3,12 @@
  
 --------------------------------------------------------------------------
 
+
 <p align="center"> <b>Update (26/07/2023)</b></p>
->Added i3 gaps rounded windows <br>
->Update NeoFetch Theme <br>
->Update Rofi <br>
->Update Colors <br>
+> Added i3 gaps rounded windows <br>
+> Update NeoFetch Theme <br>
+> Update Rofi <br>
+> Update Colors <br>
 
 --------------------------------------------------------------------------
 
@@ -28,7 +29,8 @@ git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh a
 
 --------------------------------------------------------------------------
 Desktop Look<br>
-![image](https://github.com/eterna8/dotfiles/assets/79897762/a067fe54-a0d0-4878-9c63-3dab4c37d492)
+
+<p align="center"><img src="https://github.com/eterna8/dotfiles/assets/79897762/a067fe54-a0d0-4878-9c63-3dab4c37d492">
 
 
 <br/>
