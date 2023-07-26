@@ -2,8 +2,15 @@
  align="right" /> Dotfiles
 --
 
+Update (23/07/2023)
+--
+Added spotify module
+
+--------------------------------------------------------------------------
+
 Dotfiles for my arch i3 ricing.<br>
 
+--------------------------------------------------------------------------
 
 Install transperent dotfiles for arch(now,its only for arch): <br>
 ```bash
@@ -15,20 +22,21 @@ git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh a
 ```
 Neofetch Theme (Small-Themes/Smile): https://github.com/m3tozz/NeoCat.git
 
-
-<br>
+--------------------------------------------------------------------------
+Desktop Look
+![image](https://github.com/eterna8/dotfiles/assets/79897762/0baa7b07-b597-483f-8902-007437633cfc)
 
 <details>
-<summary> Look (Transparent) </summary>
+<summary> Look (Transparent Terminal) </summary>
 
-![image](https://github.com/eterna8/dotfiles/assets/139211439/c76d9119-8df7-412a-a92c-e6f58b7fcfc0)
-![image](https://github.com/eterna8/dotfiles/assets/139211439/04a8c6da-cb81-4f65-938c-cfbe033f717f)
+ ![image](https://github.com/eterna8/dotfiles/assets/139211439/c76d9119-8df7-412a-a92c-e6f58b7fcfc0)
 </details>
 
 <details>
-<summary> Look (Default) </summary>
-![image](https://github.com/eterna8/dotfiles/assets/139211439/bb55d01a-c193-4e1f-b81c-dc008abce650)
-![image](https://github.com/eterna8/dotfiles/assets/139211439/b5d02c5d-76a0-46ee-9eda-185b69f1d418)
+<summary> Look (Default Terminal) </summary> 
+
+ ![image](https://github.com/eterna8/dotfiles/assets/139211439/bb55d01a-c193-4e1f-b81c-dc008abce650)
 </details>
 
-#readme file by m3tozz
+--------------------------------------------------------------------------
+<p align="center"><a href="https://github.com/m3tozz">readme file by m3tozz
