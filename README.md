@@ -2,6 +2,7 @@
  align="right" /> Dotfiles for my arch i3 gaps ricing</b>
  
 --------------------------------------------------------------------------
+
 <p align="center"> <b>Update (26/07/2023)</b></p>
 >Added i3 gaps rounded windows <br>
 >Update NeoFetch Theme <br>
