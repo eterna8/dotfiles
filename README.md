@@ -1,7 +1,7 @@
 <img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10"
  align="right" /> Dotfiles for my arch i3 ricing
 --
-<p align="center">Update (26/07/2023)
+<p align="center">Update (26/07/2023)</p>
 >Added i3 gaps rounded windows
 >Update NeoFetch Theme
 >Update Colors
