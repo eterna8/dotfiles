@@ -182,7 +182,7 @@ client.background       #ECEFF4
 bindsym $mod+q kill
 exec BackGround
 exec --no-startup-id nitrogen --restore
-exec picom
+#exec picom
 bindsym $mod+Shift+p exec ~/.config/rofi/powermenu/type-4/powermenu.sh
 
 # reload the configuration file
@@ -192,6 +192,6 @@ bindsym Mod1+Shift+r restart
 default_border pixel 1
 default_floating_border pixel 1
 gaps inner 5
-bindsym $mod+o exec kcolorchooser
+border_radius 5
 
 

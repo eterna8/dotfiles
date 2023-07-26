@@ -34,41 +34,32 @@ selection:
 
 shell:
   program: /usr/bin/zsh
-
-key_bindings:
-  - {
-      key: Return,
-      mods: Super|Shift,
-      action: SpawnNewInstance
-    }
-
+  
+# Colors (Dracula)
 colors:
   # Default colors
   primary:
-    background: '#1e222a'
-    foreground: '#e5e1d8'
+    background: '#282a36'
+    foreground: '#f8f8f2'
 
   # Normal colors
   normal:
-    black: '#000000'
-    red: '#f7786d'
-    green: '#bde97c'
-    yellow: '#efdfac'
-    blue: '#6ebaf8'
-    magenta: '#ef88ff'
-    cyan: '#90fdf8'
-    white: '#e5e1d8'
+    black:   '#000000'
+    red:     '#ff5555'
+    green:   '#50fa7b'
+    yellow:  '#f1fa8c'
+    blue:    '#caa9fa'
+    magenta: '#ff79c6'
+    cyan:    '#8be9fd'
+    white:   '#bfbfbf'
 
   # Bright colors
   bright:
-    black: '#b4b4b4'
-    red: '#f99f92'
-    green: '#e3f7a1'
-    yellow: '#f2e9bf'
-    blue: '#b3d2ff'
-    magenta: '#e5bdff'
-    cyan: '#c2fefa'
-    white: '#ffffff'
-theme: Wombat
-white: "#DDDDDD"
-theme: X-dotshare
+    black:   '#575b70'
+    red:     '#ff6e67'
+    green:   '#5af78e'
+    yellow:  '#f4f99d'
+    blue:    '#caa9fa'
+    magenta: '#ff92d0'
+    cyan:    '#9aedfe'
+    white:   '#e6e6e6'
