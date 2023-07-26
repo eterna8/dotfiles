@@ -28,12 +28,14 @@ Desktop Look
 
 <details>
 <summary> Look (Transparent Terminal) </summary>
-![image](https://github.com/eterna8/dotfiles/assets/139211439/c76d9119-8df7-412a-a92c-e6f58b7fcfc0)
+
+ ![image](https://github.com/eterna8/dotfiles/assets/139211439/c76d9119-8df7-412a-a92c-e6f58b7fcfc0)
 </details>
 
 <details>
 <summary> Look (Default Terminal) </summary> 
-![image](https://github.com/eterna8/dotfiles/assets/139211439/bb55d01a-c193-4e1f-b81c-dc008abce650)
+
+ ![image](https://github.com/eterna8/dotfiles/assets/139211439/bb55d01a-c193-4e1f-b81c-dc008abce650)
 </details>
 
 --------------------------------------------------------------------------
