@@ -8,6 +8,8 @@ cp -r backdrops $HOME/pictures
 echo enabling kvantum...
 QT_QPA_PLATFORMTHEME=kvantum
 echo please restart your computer for changing theme.
-echo installing neocat...
-cd Smile-NeoCat-Theme && bash ./smile-neocat.sh 
+echo installing NeoCat...
+sleep 1
+git clone --depth 1 https://github.com/m3tozz/NeoCat.git && cd NeoCat && sudo make install
+cd NeoCat && bash ./neocat.sh 
 echo done!
