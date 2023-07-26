@@ -2,11 +2,13 @@
  align="right" /> Dotfiles for my arch i3 gaps ricing</b>
  
 --------------------------------------------------------------------------
+
 <p align="center"> <b>Update (26/07/2023)</b></p>
 >Added i3 gaps rounded windows <br>
 >Update NeoFetch Theme <br>
 >Update Rofi <br>
 >Update Colors <br>
+
 --------------------------------------------------------------------------
 
 <p align="center">Install transperent dotfiles for arch(now,its only for arch):</p>
@@ -25,7 +27,7 @@ git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh a
 <p align="center">Neofetch Theme (NeoCat - NeoFetch Theme Pack): https://github.com/m3tozz/NeoCat.git</p>
 
 --------------------------------------------------------------------------
-Desktop Look
+Desktop Look<br>
 ![image](https://github.com/eterna8/dotfiles/assets/79897762/a067fe54-a0d0-4878-9c63-3dab4c37d492)
 
 
