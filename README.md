@@ -11,7 +11,13 @@
 > Update Colors <br>
 
 --------------------------------------------------------------------------
-
+Setup:
+Terminal:alacritty
+Window Manager:i3 gaps rounded
+Compositor:Picom(only for transperent terminal)
+Shell:Zsh
+Editor:Nano
+App launcher:Rofi
 <p align="center">Install transperent dotfiles for arch(now,its only for arch):</p>
 
 ```
