@@ -11,7 +11,7 @@
 > Update Colors <br>
 
 --------------------------------------------------------------------------
-Setup:
+(Installer automaticly setting everything)Setup:
 
 Terminal:alacritty
 
