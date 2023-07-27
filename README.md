@@ -12,6 +12,7 @@
 
 --------------------------------------------------------------------------
 Setup:
+
 Terminal:alacritty
 
 Window Manager:i3 gaps rounded
