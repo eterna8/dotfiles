@@ -13,17 +13,19 @@
 --------------------------------------------------------------------------
 (Installer automaticly setting everything)Setup:
 
-Terminal:alacritty
+Terminal: alacritty
 
-Window Manager:i3 gaps rounded
+Window Manager: i3 gaps rounded
 
-Compositor:Picom(only for transperent terminal)
+Compositor: Picom(only for transperent terminal)
 
-Shell:Zsh
+Shell: Zsh
 
-Editor:Nano
+Editor: Nano
 
-App launcher:Rofi
+App launcher: Rofi
+
+--------------------------------------------------------------------------
 
 <p align="center">Install transperent dotfiles for arch(now,its only for arch):</p>
 
