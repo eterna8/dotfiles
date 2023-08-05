@@ -1,5 +1,3 @@
-src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37"
- 
 --------------------------------------------------------------------------
 
 
