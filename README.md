@@ -45,20 +45,23 @@ git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh a
 --------------------------------------------------------------------------
 Desktop Look<br>
 
-<p align="center"><img src="https://github.com/eterna8/dotfiles/assets/79897762/a067fe54-a0d0-4878-9c63-3dab4c37d492">
+![image](https://github.com/eterna8/dotfiles/assets/139211439/abdfeed3-7cbb-4a76-92db-b41a4f5ccfbf)
+
 
 
 <br/>
 <details>
 <summary> Look (Transparent Terminal) </summary>
 
-![image](https://github.com/eterna8/dotfiles/assets/79897762/530e7915-15a4-487f-b222-021eb7f90de1)
+ ![image](https://github.com/eterna8/dotfiles/assets/139211439/2ef10feb-8943-4963-8dfb-1b216e7e4353)
+
 </details>
 
 <details>
 <summary> Look (Default Terminal) </summary> 
 
-![image](https://github.com/eterna8/dotfiles/assets/79897762/310d0dc3-a194-463d-baca-4c89fa83ef41)
+ ![image](https://github.com/eterna8/dotfiles/assets/139211439/6e2e0138-4e9d-4249-a608-adc17abb2c9e)
+
 </details>
 
 --------------------------------------------------------------------------
