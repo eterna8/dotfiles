@@ -5,8 +5,11 @@
 
 
 <p align="center"> <b>Update (26/07/2023)</b></p>
+
 >dunst color fix
+
 >Weather added
+
 --------------------------------------------------------------------------
 (Installer automaticly setting everything)Setup:
 
