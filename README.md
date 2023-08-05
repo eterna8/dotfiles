@@ -1,5 +1,4 @@
 src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" 
-alt="metozz" hspace="10"
 align="right" /> Dotfiles for my arch i3 gaps ricing</b>
  
 --------------------------------------------------------------------------
