@@ -5,11 +5,8 @@
 
 
 <p align="center"> <b>Update (26/07/2023)</b></p>
-> Added i3 gaps rounded windows <br>
-> Update NeoFetch Theme <br>
-> Update Rofi <br>
-> Update Colors <br>
-
+>dunst color fix
+>Weather added
 --------------------------------------------------------------------------
 (Installer automaticly setting everything)Setup:
 
