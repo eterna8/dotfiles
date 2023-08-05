@@ -183,7 +183,7 @@ bindsym $mod+q kill
 exec BackGround
 exec --no-startup-id nitrogen --restore
 #exec picom
-bindsym $mod+Shift+p exec ~/.config/rofi/powermenu/type-4/powermenu.sh
+bindsym $mod+Shift+p exec ~/.config/rofi/powermenu/type-1/powermenu.sh
 
 # reload the configuration file
 bindsym Mod1+Shift+c reload
@@ -191,7 +191,8 @@ bindsym Mod1+Shift+c reload
 bindsym Mod1+Shift+r restart
 default_border pixel 1
 default_floating_border pixel 1
-gaps inner 5
-border_radius 5
-
+gaps inner 4
+border_radius 6
+bindsym ctrl+k exec QT_QPA_PLATFORMTHEME=qt5ct kcolorchooser
+bindsym $Mod+m exec alacritty -e /home/eterna/musikcube/musikcube
 
