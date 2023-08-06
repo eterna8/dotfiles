@@ -191,8 +191,10 @@ bindsym Mod1+Shift+c reload
 bindsym Mod1+Shift+r restart
 default_border pixel 1
 default_floating_border pixel 1
-gaps inner 4
+gaps inner 2
+gaps outer 2
 border_radius 6
 bindsym ctrl+k exec QT_QPA_PLATFORMTHEME=qt5ct kcolorchooser
 bindsym $Mod+m exec alacritty -e /home/eterna/musikcube/musikcube
+exec_always --no-startup-id killall cava; exec i3bgwin urxvt -depth 32 -bg '[00]black' --color6 '[50]cyan' +sb -embed {windowid} -e cava
 
