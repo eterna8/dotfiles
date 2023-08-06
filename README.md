@@ -3,7 +3,7 @@
 
 <p align="center"> <b>Update (05/08/2023)</b></p>
 
->polybar colors
+>polybar update
 
 --------------------------------------------------------------------------
 (Installer automaticly setting everything)Setup:
@@ -40,7 +40,7 @@ git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh a
 --------------------------------------------------------------------------
 Desktop Look<br>
 
-![image](https://github.com/eterna8/dotfiles/assets/139211439/b8dfb62a-7137-42a9-8154-8a816c6569cd)
+![image](https://github.com/eterna8/dotfiles/assets/139211439/ae7eeaee-dd55-4f39-b5be-d18cc0843c7c)
 
 
 
@@ -49,7 +49,8 @@ Desktop Look<br>
 <details>
 <summary> Look (Transparent Terminal) </summary>
 
-![image](https://github.com/eterna8/dotfiles/assets/139211439/965a8710-9a53-4287-8aae-aa1e44582d3d)
+![image](https://github.com/eterna8/dotfiles/assets/139211439/2bf21a80-3130-46ec-9a40-05705fe718a2)
+
 
 
 </details>
@@ -57,8 +58,7 @@ Desktop Look<br>
 <details>
 <summary> Look (Default Terminal) </summary> 
 
-![image](https://github.com/eterna8/dotfiles/assets/139211439/805b4665-8706-46f6-9acb-0b530f0ba845)
-
+![image](https://github.com/eterna8/dotfiles/assets/139211439/ddbab7f7-021f-4466-a1f8-e61a90f663e7)
 </details>
 
 --------------------------------------------------------------------------
