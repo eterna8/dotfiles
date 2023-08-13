@@ -28,6 +28,7 @@ App launcher: Rofi
 
 ---
 <p align="center">Neofetch Theme (NeoCat - NeoFetch Theme Pack): https://github.com/m3tozz/NeoCat.git</p>
+
 ---
 
 Desktop Look<br>
