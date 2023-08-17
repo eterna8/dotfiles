@@ -2,8 +2,7 @@
 
 
 <p align="center"> <b>Update (05/08/2023)</b></p>
-
->polybar update
+>rofi&new shortcuts update
 
 --------------------------------------------------------------------------
 (Installer automaticly setting everything)Setup:
