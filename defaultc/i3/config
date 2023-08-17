@@ -169,7 +169,7 @@ bindsym Mod1+Shift+9 move container to workspace number $ws9
 
 bindsym Print exec flameshot gui
 exec polybar
-bindsym mod1+d exec ~/.config/rofi/launchers/type-4/launcher.sh
+bindsym mod1+d exec rofi -show drun
 bindsym ctrl+f exec  QT_QPA_PLATFORMTHEME=qt5ct dolphin
 # class                 border  backgr. text    indicator child_border
 client.focused          #2E3440 #3B4252 #E5E9F0 #2E3440   #434C5E
@@ -195,6 +195,4 @@ gaps inner 2
 gaps outer 2
 border_radius 6
 bindsym ctrl+k exec QT_QPA_PLATFORMTHEME=qt5ct kcolorchooser
-bindsym $Mod+m exec alacritty -e /home/eterna/musikcube/musikcube
-exec_always --no-startup-id killall cava; exec i3bgwin urxvt -depth 32 -bg '[00]black' --color6 '[50]cyan' +sb -embed {windowid} -e cava
-
+bindsym $Mod+m exec alacritty -e musikcube
