@@ -5,7 +5,7 @@ cd config && cp -r alacritty  dunst  i3  polybar picom rofi zsh scripts  $HOME/.
 cd -
 echo copying wallpapers to /Pictures/backdrops...
 cp -r backdrops $HOME/Pictures
-echo enabling QT5CT(For themes&icons)
+echo enabling QT5CT
 QT_QPA_PLATFORMTHEME=qt5ct
 echo please restart your computer for changing theme.
 echo installing NeoCat...
