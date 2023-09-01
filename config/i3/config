@@ -182,7 +182,7 @@ client.background       #ECEFF4
 bindsym $mod+q kill
 exec BackGround
 exec --no-startup-id nitrogen --restore
-#exec picom #if you want to use animations and transperency/blur and you have Picom enable it.
+exec picom #if you want to use animations and transperency/blur and you have Picom enable it.
 bindsym $mod+Shift+p exec ~/.config/rofi/powermenu/type-1/powermenu.sh
 
 # reload the configuration file
