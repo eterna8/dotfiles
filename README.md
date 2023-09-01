@@ -36,10 +36,7 @@ git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh a
 ```
 <p align="center">İf you don't use Arch,you can use setup.sh or transperent-setup.sh but you need to install all apps needed.
   
---------------------------------------------------------------------------
-<p align="center">Neofetch Theme (NeoCat - NeoFetch Theme Pack): https://github.com/m3tozz/NeoCat.git</p>
 
-<p align="center">Color scheme(For another app themes) https://draculatheme.com</p>
 --------------------------------------------------------------------------
 
 Desktop Look<br>
@@ -77,6 +74,11 @@ Desktop Look<br>
 
 
 </details>
+
+--------------------------------------------------------------------------
+<p align="center">Neofetch Theme (NeoCat - NeoFetch Theme Pack): https://github.com/m3tozz/NeoCat.git</p>
+
+<p align="center">Color scheme(For another app themes) https://draculatheme.com</p>
 
 --------------------------------------------------------------------------
 <p align="center"><a href="https://github.com/m3tozz">readme file by m3tozz</a>
