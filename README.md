@@ -1,3 +1,6 @@
+
+<p align="center"> <img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10"
+
 --------------------------------------------------------------------------
 
 
@@ -72,6 +75,5 @@ Desktop Look<br>
 <p align="center">Neofetch Theme (NeoCat - NeoFetch Theme Pack): https://github.com/m3tozz/NeoCat.git</p>
 
 <p align="center">Color scheme(For another app themes) https://draculatheme.com</p>
-
---------------------------------------------------------------------------
+                     --------------------------------------------------------------------------
 <p align="center"><a href="https://github.com/m3tozz">readme file by m3tozz</a>
