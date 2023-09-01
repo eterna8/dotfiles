@@ -11,7 +11,7 @@
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:monospace 8
+font pango:Cascadia Code 8
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
@@ -169,7 +169,7 @@ bindsym Mod1+Shift+9 move container to workspace number $ws9
 
 bindsym Print exec flameshot gui
 exec polybar
-bindsym mod1+d exec rofi -show drun
+bindsym $mod+d exec rofi -show drun
 bindsym ctrl+f exec  QT_QPA_PLATFORMTHEME=qt5ct dolphin
 # class                 border  backgr. text    indicator child_border
 client.focused          #2E3440 #3B4252 #E5E9F0 #2E3440   #434C5E
@@ -182,7 +182,7 @@ client.background       #ECEFF4
 bindsym $mod+q kill
 exec BackGround
 exec --no-startup-id nitrogen --restore
-#exec picom
+#exec picom #if you want to use animations and transperency/blur and you have Picom enable it.
 bindsym $mod+Shift+p exec ~/.config/rofi/powermenu/type-1/powermenu.sh
 
 # reload the configuration file
@@ -194,5 +194,11 @@ default_floating_border pixel 1
 gaps inner 2
 gaps outer 2
 border_radius 6
-bindsym ctrl+k exec QT_QPA_PLATFORMTHEME=qt5ct kcolorchooser
-bindsym $Mod+m exec alacritty -e musikcube
+bindsym $Mod+m exec spotify
+bindsym Super_R exec QT_QPA_PLATFORMTHEME=qt5ct kcolorchooser
+
+bindsym $mod+Escape exec alacritty -e htop
+
+bindsym $mod+ctrl+q exec ~/.config/scripts/lock
+exec --no-startup-id xautolock -time 10 -locker ~/.config/scripts/lock
+for_window [class="scrcpy" instance="scrcpy"] floating enable

@@ -1,0 +1,206 @@
+# i3 config file (v4)
+#
+# Please see https://i3wm.org/docs/userguide.html for a complete reference!
+#
+# This config file uses keycodes (bindsym) and was written for the QWERTY
+# layout.
+#
+# To get a config file with the same key positions, but for your current
+# layout, use the i3-config-wizard
+#
+
+# Font for window titles. Will also be used by the bar unless a different font
+# is used in the bar {} block below.
+font pango:monospace 8
+
+# This font is widely installed, provides lots of unicode glyphs, right-to-left
+# text rendering and scalability on retina/hidpi displays (thanks to pango).
+#font pango:DejaVu Sans Mono 8
+
+# Start XDG autostart .desktop files using dex. See also
+# https://wiki.archlinux.org/index.php/XDG_Autostart
+exec --no-startup-id dex --autostart --environment i3
+
+# The combination of xss-lock, nm-applet and pactl is a popular choice, so
+# they are included here as an example. Modify as you see fit.
+
+# xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
+# screen before suspend. Use loginctl lock-session to lock your screen.
+exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+
+# NetworkManager is the most popular way to manage wireless networks on Linux,
+# and nm-applet is a desktop environment-independent system tray GUI for it.
+#exec --no-startup-id nm-applet
+
+# Use pactl to adjust volume in PulseAudio.
+set $refresh_i3status killall -SIGUSR1 i3status
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -10% && $refresh_i3status
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
+bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
+
+# use these keys for focus, movement, and resize directions when reaching for
+# the arrows is not convenient
+set $up l
+set $down k
+set $left j
+set $right semicolon
+set $mod mod1
+# use Mouse+Mod1 to drag floating windows to their wanted position
+floating_modifier Mod1
+
+# move tiling windows via drag & drop by left-clicking into the title bar,
+# or left-clicking anywhere into the window while holding the floating modifier.
+
+# start a terminal
+bindsym Mod1+ctrl+t exec alacritty
+
+# kill focused window
+bindsym Mod1+Shift+q kill
+
+# start rofi (a program launcher)
+# bindsym mod1+d exec rofi -show drun
+# A more modern dmenu replacement is rofi:
+# bindsym mod1+r exec "rofi -modi drun,run -show drun"
+# There also is i3-dmenu-desktop which only displays applications shipping a
+# .desktop file. It is a wrapper around dmenu, so you need that installed.
+# bindsym mod1+f exec --no-startup-id i3-dmenu-desktop
+
+# change focus
+bindsym Mod1+$left focus left
+bindsym Mod1+$down focus down
+bindsym Mod1+$up focus up
+bindsym Mod1+$right focus right
+
+# alternatively, you can use the cursor keys:
+bindsym Mod1+Left focus left
+bindsym Mod1+Down focus down
+bindsym Mod1+Up focus up
+bindsym Mod1+Right focus right
+
+# move focused window
+bindsym Mod1+Shift+$left move left
+bindsym Mod1+Shift+$down move down
+bindsym Mod1+Shift+$up move up
+bindsym Mod1+Shift+$right move right
+
+# alternatively, you can use the cursor keys:
+bindsym Mod1+Shift+Left move left
+bindsym Mod1+Shift+Down move down
+bindsym Mod1+Shift+Up move up
+bindsym Mod1+Shift+Right move right
+
+# split in horizontal orientation
+bindsym Mod1+h split h
+
+# split in vertical orientation
+bindsym Mod1+v split v
+
+# enter fullscreen mode for the focused container
+bindsym Mod1+f fullscreen toggle
+
+# change container layout (stacked, tabbed, toggle split)
+bindsym Mod1+s layout stacking
+bindsym Mod1+w layout tabbed
+bindsym Mod1+e layout toggle split
+
+# toggle tiling / floating
+bindsym Mod1+Shift+space floating toggle
+
+# change focus between tiling / floating windows
+bindsym Mod1+space focus mode_toggle
+
+# focus the parent container
+bindsym Mod1+a focus parent
+
+# focus the child container
+#bindsym Mod1+d focus child
+
+# move the currently focused window to the scratchpad
+bindsym Mod1+Shift+minus move scratchpad
+
+# Show the next scratchpad window or hide the focused scratchpad window.
+# If there are multiple scratchpad windows, this command cycles through them.
+bindsym Mod1+minus scratchpad show
+
+# Define names for default workspaces for which we configure key bindings later on.
+# We use variables to avoid repeating the names in multiple places.
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
+set $ws5 "5"
+set $ws6 "6"
+set $ws7 "7"
+set $ws8 "8"
+set $ws9 "9"
+
+# switch to workspace
+bindsym Mod1+1 workspace number $ws1
+bindsym Mod1+2 workspace number $ws2
+bindsym Mod1+3 workspace number $ws3
+bindsym Mod1+4 workspace number $ws4
+bindsym Mod1+5 workspace number $ws5
+bindsym Mod1+6 workspace number $ws6
+bindsym Mod1+7 workspace number $ws7
+bindsym Mod1+8 workspace number $ws8
+bindsym Mod1+9 workspace number $ws9
+
+# move focused container to workspace
+bindsym Mod1+Shift+1 move container to workspace number $ws1
+bindsym Mod1+Shift+2 move container to workspace number $ws2
+bindsym Mod1+Shift+3 move container to workspace number $ws3
+bindsym Mod1+Shift+4 move container to workspace number $ws4
+bindsym Mod1+Shift+5 move container to workspace number $ws5
+bindsym Mod1+Shift+6 move container to workspace number $ws6
+bindsym Mod1+Shift+7 move container to workspace number $ws7
+bindsym Mod1+Shift+8 move container to workspace number $ws8
+bindsym Mod1+Shift+9 move container to workspace number $ws9
+
+#dummy-bar
+
+#bar {
+#    height %100
+#    mode dock
+#    position top
+#    i3bar_command i3bar -t
+#}
+
+
+bindsym Print exec flameshot gui
+exec polybar
+bindsym Super_L exec rofi -show drun
+bindsym ctrl+f exec  QT_QPA_PLATFORMTHEME=qt5ct dolphin
+# class                 border  backgr. text    indicator child_border
+client.focused          #2E3440 #3B4252 #E5E9F0 #2E3440   #434C5E
+client.focused_inactive #3B4252 #434C5E #E5E9F0 #434C5E   #4C566A
+client.unfocused        #4C566A #434C5E #E5E9F0 #3B4252   #2E3440
+client.urgent           #3B4252 #434C5E #ECEFF4 #434C5E   #434C5E
+client.placeholder      #2E3440 #434C5E #ECEFF4 #434C5E   #2E3440
+
+client.background       #ECEFF4
+bindsym $mod+q kill
+exec BackGround
+exec --no-startup-id nitrogen --restore
+#exec picom
+bindsym $mod+Shift+p exec ~/.config/rofi/powermenu/type-1/powermenu.sh
+
+# reload the configuration file
+bindsym Mod1+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym Mod1+Shift+r restart
+default_border pixel 1
+default_floating_border pixel 1
+gaps inner 2
+gaps outer 2
+border_radius 6
+bindsym $Mod+m exec alacritty -e musikcube
+bindsym Super_R exec QT_QPA_PLATFORMTHEME=qt5ct kcolorchooser
+
+exec QT_QPA_PLATFORMTHEME=qt5ct
+bindsym $mod+ctrl+q exec ~/.config/scripts/lock
+exec --no-startup-id xautolock -time 10 -locker ~/.config/scripts/lock
+for_window [class="scrcpy" instance="scrcpy"] floating enable
+for_window [class="systemsettings5" instance="systemsettings"] floating enable
+
+
