@@ -39,7 +39,9 @@ git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh a
 --------------------------------------------------------------------------
 <p align="center">Neofetch Theme (NeoCat - NeoFetch Theme Pack): https://github.com/m3tozz/NeoCat.git</p>
 --------------------------------------------------------------------------
+
 <p align="center">Color scheme(For another app themes) https://draculatheme.com
+
 --------------------------------------------------------------------------
 Desktop Look<br>
 
