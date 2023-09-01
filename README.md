@@ -64,7 +64,6 @@ Desktop Look<br>
 
 </details>
 
-<br/>
 <details>
 <summary> Look (gtk theme) </summary>
 
