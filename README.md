@@ -75,5 +75,6 @@ Desktop Look<br>
 <p align="center">Neofetch Theme (NeoCat - NeoFetch Theme Pack): https://github.com/m3tozz/NeoCat.git</p>
 
 <p align="center">Color scheme(For another app themes) https://draculatheme.com</p>
-                     --------------------------------------------------------------------------
+
+--------------------------------------------------------------------------
 <p align="center"><a href="https://github.com/m3tozz">readme file by m3tozz</a>
