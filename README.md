@@ -34,7 +34,8 @@ git clone --depth 1 https://github.com/eterna8/dotfiles/ && cd dotfiles && sh ar
 ```
 git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh arch-install-default.sh
 ```
-
+<p align="center">İf you don't use Arch,you can use setup.sh or transperent-setup.sh but you need to install all apps needed.
+  
 --------------------------------------------------------------------------
 <p align="center">Neofetch Theme (NeoCat - NeoFetch Theme Pack): https://github.com/m3tozz/NeoCat.git</p>
 
