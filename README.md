@@ -41,35 +41,29 @@ git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh a
 
 Desktop Look<br>
 
-![image](https://github.com/eterna8/dotfiles/assets/139211439/fe4aa159-0712-4698-bc62-9d5835bb5ab8)
-
-
+![image](https://github.com/eterna8/dotfiles/assets/139211439/2817ea64-8f6d-4a15-a01f-e4423916b425)
 
 
 <br/>
 <details>
 <summary> Look (Transparent Terminal) </summary>
 
-
-![transperent-2023-09-01](https://github.com/eterna8/dotfiles/assets/139211439/86f48482-3fd0-4945-8749-2341d8f7f9dd)
-
+![transperent-2023-09-01](https://github.com/eterna8/dotfiles/assets/139211439/1c4e1ca0-b4ec-4cdd-bcc7-3e716088ecaf)
 
 </details>
 
 <details>
 <summary> Look (Default Terminal) </summary> 
 
-![default-2023-09-01](https://github.com/eterna8/dotfiles/assets/139211439/bde46452-335a-4dbf-9593-098c7438be44)
+![default-2023-09-01](https://github.com/eterna8/dotfiles/assets/139211439/a4f4cb95-cd61-401b-87fd-f3a9ca1fe203)
 
 
 </details>
 
 <details>
 <summary> Look (gtk theme) </summary>
-
-  
-![image](https://github.com/eterna8/dotfiles/assets/139211439/dc97cc32-490c-4ad4-a945-6e21e1d5b7b5)
-
+ 
+![image](https://github.com/eterna8/dotfiles/assets/139211439/a83c0ec9-9eac-4351-b9ff-e4c73353143b)
 
 
 </details>
