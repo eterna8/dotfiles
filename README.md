@@ -65,5 +65,16 @@ Desktop Look<br>
 
 </details>
 
+<br/>
+<details>
+<summary> Look (gtk theme) </summary>
+
+  
+![image](https://github.com/eterna8/dotfiles/assets/139211439/dc97cc32-490c-4ad4-a945-6e21e1d5b7b5)
+
+
+
+</details>
+
 --------------------------------------------------------------------------
 <p align="center"><a href="https://github.com/m3tozz">readme file by m3tozz</a>
