@@ -1,8 +1,8 @@
 --------------------------------------------------------------------------
 
 
-<p align="center"> <b>Update (05/08/2023)</b></p>
->rofi&new shortcuts update
+<p align="center"> <b>Update (01/09/2023)</b></p>
+>Added new Dracula theme lock screen,new shortcuts and icon&shortcut updates.
 
 --------------------------------------------------------------------------
 (Installer automaticly setting everything)Setup:
@@ -18,6 +18,8 @@ Shell: Zsh
 Editor: Nano
 
 App launcher: Rofi
+
+compositor(for transperent dotfiles)
 
 --------------------------------------------------------------------------
 
@@ -39,7 +41,7 @@ git clone --depth 1  https://github.com/eterna8/dotfiles/ && cd dotfiles && sh a
 --------------------------------------------------------------------------
 Desktop Look<br>
 
-![image](https://github.com/eterna8/dotfiles/assets/139211439/ae7eeaee-dd55-4f39-b5be-d18cc0843c7c)
+![image](https://github.com/eterna8/dotfiles/assets/139211439/fe4aa159-0712-4698-bc62-9d5835bb5ab8)
 
 
 
@@ -48,8 +50,8 @@ Desktop Look<br>
 <details>
 <summary> Look (Transparent Terminal) </summary>
 
-![image](https://github.com/eterna8/dotfiles/assets/139211439/2bf21a80-3130-46ec-9a40-05705fe718a2)
 
+![transperent-2023-09-01](https://github.com/eterna8/dotfiles/assets/139211439/86f48482-3fd0-4945-8749-2341d8f7f9dd)
 
 
 </details>
@@ -57,7 +59,9 @@ Desktop Look<br>
 <details>
 <summary> Look (Default Terminal) </summary> 
 
-![image](https://github.com/eterna8/dotfiles/assets/139211439/ddbab7f7-021f-4466-a1f8-e61a90f663e7)
+![default-2023-09-01](https://github.com/eterna8/dotfiles/assets/139211439/bde46452-335a-4dbf-9593-098c7438be44)
+
+
 </details>
 
 --------------------------------------------------------------------------
