@@ -1,8 +1,7 @@
-
-<p align="center"> <img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10"
-
+<img src="https://hits.sh/github.com/eterna8/dotfiles.git.svg?label=views&color=fe7d37" alt="r10" hspace="10"
+ align="right" /> Dotfiles 
+-------------------------------------------------------------------------
 --------------------------------------------------------------------------
-
 
 <p align="center"> <b>Update (01/09/2023)</b></p>
 >Added new Dracula theme lock screen,new shortcuts and icon&shortcut updates.
